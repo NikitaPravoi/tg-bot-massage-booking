@@ -5,7 +5,7 @@ Made on python 3.11 / Сделано на python 3.11
 
 For package install type: / Для установки пакетов введите:
 
-pip install -r reqs.txt
+<code>pip install -r reqs.txt<code>
 
 This telegram bot is made for booking on a massage, there is functions as: getting info about a masseur, getting prices as a media group of photos, filling a questionnaire and, of course, booking.
 /
