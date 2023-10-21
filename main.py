@@ -369,7 +369,7 @@ async def choose_time(update: Update, context: CallbackContext):
 
 
 def main():
-    application = ApplicationBuilder().token('6489611390:AAG1rQWJc6jGsj1kG00kUsu23_k_x6D7aS0').build()
+    application = ApplicationBuilder().token('TOKEN').build()
 
     # Создание обработчиков для команд и сообщений
     conv_handler = ConversationHandler(
